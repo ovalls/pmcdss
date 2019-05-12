@@ -1,0 +1,188 @@
+<xmcda:XMCDA xmlns:xmcda="http://www.decision-deck.org/2009/XMCDA-2.0.0"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+
+	<criteria>
+		<criterion id="Dificulty" name="Dificulty">
+			<scale>
+				<quantitative>
+					<preferenceDirection>min</preferenceDirection>
+				</quantitative>
+			</scale>
+			<thresholds>
+				<threshold mcdaConcept="ind">
+					<constant>
+						<real>1.0</real>
+					</constant>
+				</threshold>
+				<threshold mcdaConcept="pref">
+					<constant>
+						<real>2.0</real>
+					</constant>
+				</threshold>
+				<threshold mcdaConcept="veto">
+					<constant>
+						<real>4.0</real>
+					</constant>
+				</threshold>
+			</thresholds>
+		</criterion>
+		<criterion id="Intensity" name="Intensity">
+			<scale>
+				<quantitative>
+					<preferenceDirection>min</preferenceDirection>
+				</quantitative>
+			</scale>
+			<thresholds>
+				<threshold mcdaConcept="ind">
+					<constant>
+						<real>1.0</real>
+					</constant>
+				</threshold>
+				<threshold mcdaConcept="pref">
+					<constant>
+						<real>2.0</real>
+					</constant>
+				</threshold>
+				<threshold mcdaConcept="veto">
+					<constant>
+						<real>4.0</real>
+					</constant>
+				</threshold>
+			</thresholds>
+		</criterion>
+		<criterion id="Knees" name="Knees">
+			<scale>
+				<quantitative>
+					<preferenceDirection>min</preferenceDirection>
+				</quantitative>
+			</scale>
+			<thresholds>
+				<threshold mcdaConcept="ind">
+					<constant>
+						<real>1.0</real>
+					</constant>
+				</threshold>
+				<threshold mcdaConcept="pref">
+					<constant>
+						<real>2.0</real>
+					</constant>
+				</threshold>
+			</thresholds>
+		</criterion>
+		<criterion id="Legs" name="Legs">
+			<scale>
+				<quantitative>
+					<preferenceDirection>min</preferenceDirection>
+				</quantitative>
+			</scale>
+			<thresholds>
+				<threshold mcdaConcept="ind">
+					<constant>
+						<real>1.0</real>
+					</constant>
+				</threshold>
+				<threshold mcdaConcept="pref">
+					<constant>
+						<real>2.0</real>
+					</constant>
+				</threshold>
+			</thresholds>
+		</criterion>
+		<criterion id="Pelvis" name="Pelvis">
+			<scale>
+				<quantitative>
+					<preferenceDirection>max</preferenceDirection>
+				</quantitative>
+			</scale>
+			<thresholds>
+				<threshold mcdaConcept="ind">
+					<constant>
+						<real>1.0</real>
+					</constant>
+				</threshold>
+				<threshold mcdaConcept="pref">
+					<constant>
+						<real>2.0</real>
+					</constant>
+				</threshold>
+			</thresholds>
+		</criterion>
+		<criterion id="Back" name="Back">
+			<scale>
+				<quantitative>
+					<preferenceDirection>max</preferenceDirection>
+				</quantitative>
+			</scale>
+			<thresholds>
+				<threshold mcdaConcept="ind">
+					<constant>
+						<real>1.0</real>
+					</constant>
+				</threshold>
+				<threshold mcdaConcept="pref">
+					<constant>
+						<real>2.0</real>
+					</constant>
+				</threshold>
+			</thresholds>
+		</criterion>
+		<criterion id="Abdominals" name="Abdominals">
+			<scale>
+				<quantitative>
+					<preferenceDirection>max</preferenceDirection>
+				</quantitative>
+			</scale>
+			<thresholds>
+				<threshold mcdaConcept="ind">
+					<constant>
+						<real>2.0</real>
+					</constant>
+				</threshold>
+				<threshold mcdaConcept="pref">
+					<constant>
+						<real>3.0</real>
+					</constant>
+				</threshold>
+			</thresholds>
+		</criterion>
+		<criterion id="Shoulders" name="Shoulders">
+			<scale>
+				<quantitative>
+					<preferenceDirection>min</preferenceDirection>
+				</quantitative>
+			</scale>
+			<thresholds>
+				<threshold mcdaConcept="ind">
+					<constant>
+						<real>1.0</real>
+					</constant>
+				</threshold>
+				<threshold mcdaConcept="pref">
+					<constant>
+						<real>2.0</real>
+					</constant>
+				</threshold>
+			</thresholds>
+		</criterion>
+		<criterion id="Arms" name="Arms">
+			<scale>
+				<quantitative>
+					<preferenceDirection>min</preferenceDirection>
+				</quantitative>
+			</scale>
+			<thresholds>
+				<threshold mcdaConcept="ind">
+					<constant>
+						<real>1.0</real>
+					</constant>
+				</threshold>
+				<threshold mcdaConcept="pref">
+					<constant>
+						<real>2.0</real>
+					</constant>
+				</threshold>
+			</thresholds>
+		</criterion>
+	</criteria>
+
+</xmcda:XMCDA>

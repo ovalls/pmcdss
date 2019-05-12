@@ -1,0 +1,47 @@
+<xmcda:XMCDA xmlns:xmcda="http://www.decision-deck.org/2009/XMCDA-2.0.0"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+
+	<alternatives>
+		<alternative id="a01" name="Est_Tadasana" />
+		<alternative id="a02" name="Est_Pada Prasaranasana" />
+		<alternative id="a03" name="Est_Balini Asana" />
+		<alternative id="a04" name="Est_Pada Prasaranasana Parsva Satyeshikasana" />
+		<alternative id="a05" name="Est_Konasana" />
+		<alternative id="a06" name="Ext_Ardha Salabhasana" />
+		<alternative id="a08" name="Ext_Uttan Hasta Namkasana" />
+		<alternative id="a09" name="Ext_Bhujangasana" />
+		<alternative id="a09" name="Ext_Adho Mukha Svanasana" />
+		<alternative id="a10" name="Ext_Bhumi Cakrasana" />
+		<alternative id="a11" name="Flex_Uttita Shashankasana" />
+		<alternative id="a12" name="Flex_Halasana" />
+		<alternative id="a13" name="Flex_Pascimottanasana" />
+		<alternative id="a14" name="Flex_Adho Mukha Kata Garbhasana" />
+		<alternative id="a15" name="Flex_Bhumi Hasta Kata Garbasana" />
+		<alternative id="a16" name="Rot_Trikonasana" />
+		<alternative id="a17" name="Rot_Ardha Matsyendrasana" />
+		<alternative id="a18" name="Rot_Jathara Parivrtanasana" />
+		<alternative id="a19" name="Rot_Vakra Tadasana" />
+		<alternative id="a20" name="Rot_Pada Prasarana Vakra Trikonasana" />
+		<alternative id="a21" name="For_Catush Padasana" />
+		<alternative id="a22" name="For_Kakasana" />
+		<alternative id="a23" name="For_Nata Balini Asana" />
+		<alternative id="a24" name="For_Ardha Uttanasana" />
+		<alternative id="a25" name="For_Navasana" />
+		<alternative id="a26" name="Eq_Uttita Satyeshikasana" />
+		<alternative id="a27" name="Eq_Eka Pada Ardha Candrasana" />
+		<alternative id="a28" name="Eq_Garudasana" />
+		<alternative id="a29" name="Eq_Urva Padangusthasana" />
+		<alternative id="a30" name="Eq_Sira Hasta Padanghusta Pada Prasarana Urvasana" />
+		<alternative id="a31" name="Inv_Dvipada Sirsasana" />
+		<alternative id="a32" name="Inv_Sirsasana" />
+		<alternative id="a33" name="Inv_Eka Pada Sarvangasana" />
+		<alternative id="a34" name="Inv_Sarvangasana" />
+		<alternative id="a35" name="Inv_Dvi Pada Sirsasana Parivritti" />
+		<alternative id="a36" name="Med_Bhadrasana" />
+		<alternative id="a37" name="Med_Vijrasana" />
+		<alternative id="a38" name="Med_Virasana" />
+		<alternative id="a39" name="Med_Simhasana" />
+		<alternative id="a40" name="Med_Mandukasana" />
+	</alternatives>
+
+</xmcda:XMCDA>
